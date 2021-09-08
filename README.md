@@ -14,10 +14,12 @@ If you contact me and tell me how many books you don't know what to do with, I w
 
 Then I will organize donations for all the books I got !
 
-I will find underrepresented communities like student associations, disabled person at hospital,… Who would benefit from getting the books ! All in public.
+I will find underrepresented communities, student associations, disabled person in hospital, and more who would benefit from getting the books ! All in public.
 
-If you live in another country, feel free to ask me to add you to the list of donations coordinators. Would be awesome !
+If you live in another country and want to do the same, feel free to ask me to add you to the list of donations coordinators. Would be awesome !
 
 ### Support or Contact
 
-Feel free to contact the coordinator that suit the most to you !
+Feel free to contact (via Discord) the coordinator that suit the most to you !
+
+**France :** Jérémy#3502
