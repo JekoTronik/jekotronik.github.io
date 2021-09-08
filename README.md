@@ -18,10 +18,6 @@ I will find underrepresented communities like student associations, disabled per
 
 If you live in another country, feel free to ask me to add you to the list of donations coordinators. Would be awesome !
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
 ### Support or Contact
 
 Feel free to contact the coordinator that suit the most to you !
