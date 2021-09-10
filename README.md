@@ -20,6 +20,7 @@ If you live in another country and want to do the same, feel free to ask me to a
 
 ### Support or Contact
 
-Feel free to contact (via Discord) the coordinator that suit the most to you !
+Feel free to contact us via VeeFriends Discord (https://discord.gg/2tJXBqBk) the coordinator that suit the most to you !
 
-**France :** Jérémy#3502
+**France :** @Jérémy#3502
+**Australia :** @nganto
