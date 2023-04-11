@@ -12,16 +12,11 @@ body {
     background-image: url(blue_bg.png);
     background-repeat: repeat;
     line-height: 1.7em;
-    color: #7f8c8d;
     font-size: 13px;
 }
 
 h1,
 h2,
-h3,
-h4,
-h5,
-h6,
 label {
     color: #FFFFFF;
 }
@@ -68,7 +63,7 @@ a {
     right: 0px;
     bottom: 0px;
     z-index: 2;
-    width: 80%
+    width: 60%
 }
 
 /*
