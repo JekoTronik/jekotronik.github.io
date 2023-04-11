@@ -63,7 +63,7 @@ a {
     right: 0px;
     bottom: 0px;
     z-index: 2;
-    width: 60%
+    width: 20%
 }
 
 /*
@@ -85,7 +85,7 @@ a {
     }
 
     .corner {
-	width: 40%;
+	width: 30%;
     }
 
 }
